@@ -33,19 +33,6 @@ namespace Warid.Controllers
         {
             return View();
         }
-        public ActionResult motermandcondition()
-        {
-            return View();
-        }
-        public ActionResult mobuisnessschemevariations()
-        {
-            return View();
-        }
-
-        public ActionResult moWinners()
-        {
-            return View();
-        }
 
     }
 }
